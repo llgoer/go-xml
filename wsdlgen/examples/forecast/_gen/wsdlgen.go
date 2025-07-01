@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"aqwari.net/xml/wsdlgen"
+	"github.com/llgoer/go-xml/wsdlgen"
 )
 
 func main() {

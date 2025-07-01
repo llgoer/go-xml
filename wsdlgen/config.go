@@ -1,8 +1,8 @@
 package wsdlgen
 
 import (
-	"aqwari.net/xml/wsdl"
-	"aqwari.net/xml/xsdgen"
+	"github.com/llgoer/go-xml/wsdl"
+	"github.com/llgoer/go-xml/xsdgen"
 )
 
 // A Config contains parameters for the various code generation processes.
